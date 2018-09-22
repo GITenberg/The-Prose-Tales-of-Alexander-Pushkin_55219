@@ -1,0 +1,42 @@
+_repo: The-Prose-Tales-of-Alexander-Pushkin_55219
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Keane, T.
+    gutenberg_agent_id: '48232'
+    url: http://www.gutenberg.org/2009/agents/48232
+creator:
+  author:
+    agent_name: Pushkin, Aleksandr Sergeevich
+    aliases:
+    - Pushkin, Alexander
+    - Pushkin, A. S. (Aleksandr Sergeevich)
+    - Пушкин, Александр Сергеевич
+    - Poushkin, Alexander
+    birthdate: 1799
+    deathdate: 1837
+    gutenberg_agent_id: '1457'
+    url: http://www.gutenberg.org/2009/agents/1457
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
+    - http://www.museum.ru/Pushkin/
+description: ''
+gutenberg_issued: '2017-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55219'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pushkin, Aleksandr Sergeevich, 1799-1837 -- Translations into English'
+- !lcsh 'Short stories, Russian -- Translations into English'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcc 'PG'
+- GITenberg
+tableOfContents: The captain's daughter -- Doubrovsky -- The queen of spades -- An
+  amateur peasant girl -- The shot -- The snowstorm -- The postmaster -- The coffin-maker
+  -- Kirdjali -- The Egyptian nights -- Peter the Great's negro.
+title: The Prose Tales of Alexander Pushkin
+url: http://www.gutenberg.org/ebooks/55219
